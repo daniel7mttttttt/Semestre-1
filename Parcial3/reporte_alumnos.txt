@@ -1,0 +1,5 @@
+Alumnos ordenados en base al promedio 
+
+Carlos Ramirez | A003 | Promedio: 10
+Pedro Garcia | A005 | Promedio: 8
+Maria Torres | A004 | Promedio: 6

@@ -1,0 +1,3 @@
+Carlos Ramirez|A003|10|10|10|0
+Maria Torres|A004|6|6|6|1
+Pedro Garcia|A005|8|8|8|0
